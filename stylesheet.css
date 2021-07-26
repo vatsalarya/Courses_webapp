@@ -1,9 +1,7 @@
 * {
   box-sizing: border-box;
 }
-h1{
-  color: white;  
-}
+
 body {
   margin: 0;
   font-family: "Lucida Grande";
@@ -95,6 +93,8 @@ header {
 .logo {
   width: 124px;
   margin-top: 20px;
+  color: white;  
+  
 }
 
 .header-left {
