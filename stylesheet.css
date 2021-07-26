@@ -1,7 +1,9 @@
 * {
   box-sizing: border-box;
 }
-
+h1{
+  color: white;  
+}
 body {
   margin: 0;
   font-family: "Lucida Grande";
